@@ -22,6 +22,6 @@ This repository collect and analyze data from running races in Peru.
 3. Demand forecasting (for coming)
 
 # Requirements
-  - Google Chrome
-  - The last version of Chromedriver
-  - Python 3
+          - Google Chrome
+          - The last version of Chromedriver
+          - Python 3
