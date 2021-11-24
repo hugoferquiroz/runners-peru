@@ -1,3 +1,5 @@
+$ cat input.md
+
 # runners-peru
 
 This repository collect and analyze data from running races in Peru.
