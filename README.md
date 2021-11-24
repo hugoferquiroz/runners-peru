@@ -1,6 +1,6 @@
 # runners-peru
 
-This repository collect and analyze data from running races in Peru.
+This repository collect and analyze data from [running races in Peru](https://pacifictiming.com/resultados/).
 
 # Files structure
 
