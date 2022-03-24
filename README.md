@@ -2,6 +2,8 @@
 
 This repository collect and analyze data from [running races in Peru](https://pacifictiming.com/resultados/).
 
+The objective of this repository is analyze the stat of the running races in Peru.
+
 # Files structure
 
 ```markdown
