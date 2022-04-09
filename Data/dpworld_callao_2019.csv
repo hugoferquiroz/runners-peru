@@ -1,0 +1,751 @@
+number_runner,last_name,name,gender,age,category,official_time,chip_time,ranking
+3405,Abanto Castañeda,Jose Lazaro,F,40-99,7K,0:45:18,0:45:14,285
+3558,Abanto Jimes,Angela Milagros,M,18-39,7K,0:36:11,0:36:06,122
+3519,Abanto Ynes,Maria Del Carmen,F,18-39,7K,0:41:22,0:41:17,214
+615,Aberga Sotelo,Wilfredo Ronald,M,18-99,7K Colaboradores,0:38:09,0:38:00,39
+209,Acosta Trujillo,Israel,M,18-99,7K Colaboradores,0:55:16,0:54:15,154
+669,Acuña Guillen,Elvis,M,18-99,7K Colaboradores,0:40:34,0:40:16,56
+3474,Agapito Dominguez,Jason,M,18-39,7K,0:37:58,0:37:55,151
+3810,Agramonte Uribe,Gianfranco Antonio,M,18-39,7K,0:40:24,0:39:57,195
+3616,Agreda Lavado,Juliet Estefany,F,18-39,7K,0:44:33,0:44:09,269
+3680,Aguilar Rodríguez,Rocio,F,40-99,7K,0:46:38,0:46:03,310
+309,Aguirre Albites,Daniel Bernabe,M,18-99,7K Colaboradores,1:03:40,1:03:20,172
+3392,Aguirre Cancino,Lesslie,F,18-39,7K,0:53:46,0:53:24,437
+3061,Aire Laureano,Jhanina Jhanet,F,18-39,7K,0:47:52,0:47:22,333
+3334,Albarracín Cortez,Johanna Marie,F,18-39,7K,0:47:39,0:47:08,329
+3264,Alex Rossi,Reyes Francia,M,18-39,7K,0:36:00,0:35:56,118
+3052,Alfaro,Gladys,F,18-39,7K,1:06:48,1:05:58,562
+211,Alfaro Narro,Laureano,M,18-99,7K Colaboradores,0:40:28,0:39:53,53
+3014,Almendrades Carbajal,Miluska,F,18-39,7K,0:54:59,0:54:46,450
+3906,Altamirano Serrano,Carlos Javier,M,40-99,7K,0:38:30,0:38:20,158
+509,Alvarado Gaya,Siddhartha Jogio,M,18-99,7K Colaboradores,0:37:55,0:37:52,37
+3247,Alvarado Ore,Diana Carolina,F,18-39,7K,1:00:45,1:00:06,514
+3180,Alvarez Torres,Mariela,F,18-39,7K,0:47:54,0:47:24,336
+3425,Anampa Rojas,Eduardo,M,40-99,7K,0:54:29,0:52:55,446
+3573,Andrade Moron,Valerie,F,18-39,7K,0:37:11,0:37:00,139
+3512,Angeli Freundt,Francisco,M,40-99,7K,0:32:44,0:32:29,71
+226,Angulo Malca,Juan Daniel,M,18-99,7K Colaboradores,0:46:05,0:45:35,97
+210,Angy Merellina,Cadillo Pablo,F,18-99,7K Colaboradores,1:07:31,1:07:07,176
+3422,Anlas Lujan,Renato Axel,M,18-39,7K,0:35:09,0:35:07,103
+3440,Anthony,Tupac Rivera,M,18-39,7K,0:53:01,0:53:01,421
+3345,Antiparra Villa,Roberto Carlos,M,18-39,7K,0:58:31,0:58:15,491
+3823,Antun Esash,Esmith,F,15-17,7K,0:44:51,0:44:45,278
+3348,Any,Obregon,F,40-99,7K,0:43:50,0:43:46,254
+3592,Aragon Castillo,Roberto,M,18-39,7K,0:51:51,0:51:36,409
+3534,Aragon Ortiz,Manuel Guido,M,40-99,7K,0:45:41,0:45:24,296
+3918,Arana Valera,Christian,M,18-39,7K,0:37:53,0:37:35,149
+117,Arbieto Flores,Jose,M,18-99,7K Colaboradores,0:47:41,0:47:12,108
+3838,Arbulú Descalzi,Luis,M,40-99,7K,0:47:36,0:46:44,327
+3914,Arevalo Vasquez,Juan Carlos,M,18-39,7K,0:32:01,0:31:43,64
+3919,Ari Barcay,Manuel,M,18-39,7K,0:30:10,0:29:52,46
+139,Arias Huaman,Rony Ervin,M,18-99,7K Colaboradores,0:42:54,0:42:46,71
+271,Arica Lopez,Miguel Angel,M,18-99,7K Colaboradores,0:44:22,0:43:59,88
+3610,Ascencio Vizcarra,Rommy Hilda,F,40-99,7K,0:47:07,0:46:58,318
+3780,Asencio Flores,Jackelyn,F,18-39,7K,0:52:09,0:51:55,415
+3702,Asencio Soto,José Armando,M,18-39,7K,0:40:38,0:40:03,202
+3842,Asin Hurtado,Carmen,F,40-99,7K,0:30:42,0:30:41,56
+3891,Ataulluco Chile,Celso,M,40-99,7K,0:59:22,0:59:11,498
+667,Avila Huaman,Eddy Roberto,M,18-99,7K Colaboradores,0:43:12,0:42:56,79
+3876,Aviles Cisneros,Regina,F,18-39,7K,0:47:34,0:47:21,326
+3174,Axel,Johnnie,M,18-39,7K,0:32:46,0:32:26,72
+3198,Ayala Ordoño,Roxana,F,18-39,7K,0:41:28,0:40:34,215
+3869,Ayllon Pariona,Sonia,F,18-39,7K,0:44:21,0:43:54,264
+3808,Azañero Puerta,Luis Ricardo,M,18-39,7K,0:42:05,0:41:38,228
+3260,Baca Barturen,María Magdalena,F,18-39,7K,0:59:09,0:59:00,495
+3398,Barrantes,Delgado,F,18-39,7K,0:43:27,0:43:01,248
+3877,Barreto Montalvo,Aaron Gregorio,M,18-39,7K,0:27:54,0:27:51,24
+3871,Barrios Miranda,Leslie,F,18-39,7K,1:04:48,1:04:13,544
+3325,Battistini,Francesco,M,18-39,7K,0:43:17,0:42:38,244
+3218,Bazan,Ruben,M,40-99,7K,0:41:45,0:41:34,224
+3629,Becerra,Jose Eduardo,M,18-39,7K,0:29:56,0:29:20,39
+68,Bejarano Jimenez,Giancarlos Jomar,M,18-99,7K Colaboradores,0:45:19,0:44:55,92
+3835,Beltran,María Grace,F,18-39,7K,0:53:20,0:52:39,427
+3926,Benavente Apaza,Raul Jesus,M,40-99,7K,0:28:56,0:28:41,33
+3686,Benavides Robles,Denia Luz,F,40-99,7K,0:48:36,0:48:27,352
+3230,Benito Romero,Cesar,M,18-39,7K,0:50:40,0:50:40,383
+3502,Blondet Martinez,Raul Tomas,M,18-39,7K,0:41:08,0:40:22,208
+3506,Bocanegra Castro,Alexandra,F,18-39,7K,1:05:37,1:04:51,551
+3439,Boggio Salazar,Alexis,M,40-99,7K,0:59:17,0:58:23,496
+3648,Bojorquez Saenz,Jimmy Patrick,M,18-39,7K,0:48:51,0:47:35,361
+3688,Buendia Schiattino,Marisol,F,40-99,7K,0:57:31,0:57:19,485
+3776,Buselli,Claudia,F,40-99,7K,0:47:51,0:47:27,332
+3778,Bustamante Romero,Luis Javier,M,40-99,7K,0:47:51,0:47:27,331
+3118,Caballero Abanto,Carmen Juliana,F,18-39,7K,0:51:41,0:50:18,404
+423,Caballero Oliva,Fabiola Andrea,F,18-99,7K Colaboradores,1:02:41,1:02:16,170
+3859,Cabezas Choccña,Gregorio,M,40-99,7K,0:25:34,0:25:34,13
+3041,Cabrera Chirre,Oscar,M,18-39,7K,0:35:44,0:35:10,111
+3235,Cabrera Chirre,Maria Azucena Del Ca,F,18-39,7K,1:04:22,1:03:49,538
+3797,Cabrera Dominguez,Miguel Angel,M,18-39,7K,0:38:34,0:37:33,159
+594,Caceres Cansaya,Alexia Andrea,F,18-99,7K Colaboradores,0:53:23,,144
+501,Cachay Juarez,Diego Luciano,M,18-99,7K Colaboradores,0:44:49,0:44:41,90
+183,Caicay Avalos,Luis Alejandro,M,18-99,7K Colaboradores,0:43:46,0:43:01,84
+395,Cairo Medrano,Manuel Jesus,M,18-99,7K Colaboradores,0:55:49,0:55:06,155
+3171,Calampa,Sarah,F,18-39,7K,1:00:37,1:00:37,511
+491,Calderon Basteres,Artemino Sebastian,M,18-99,7K Colaboradores,0:49:09,0:48:10,118
+3090,Calderon Lujan,Rosa Nilda Margarita,F,40-99,7K,0:51:36,0:51:34,400
+3442,Calderón Méliton,William Andres,M,40-99,7K,0:44:55,0:44:29,279
+3050,Calderon Rojas,Eddyson,M,18-39,7K,0:46:22,0:45:53,308
+3059,Calle,Katherine,F,18-39,7K,0:56:46,0:55:50,474
+3652,Calvo Seminario,Marianina Jesus,F,18-39,7K,0:45:29,0:44:44,293
+3850,Camarena Marcos,Walter Antonio,M,40-99,7K,0:24:02,0:24:02,8
+3186,Camargo Alvarez,Karen Daneida,F,18-39,7K,1:07:16,1:06:59,566
+3834,Camargo Cuellar,Jorge Alejandro,M,40-99,7K,0:48:35,0:47:54,351
+665,Campos Gebol,Leonardo,M,18-99,7K Colaboradores,0:43:07,0:42:45,75
+3875,Cano Manyari,Wilmer Aldo,M,18-39,7K,0:50:04,0:49:35,377
+3153,Carbajal Perez,Erika,F,18-39,7K,0:43:58,0:43:35,255
+3150,Carbajal Perez,Guissella,F,18-39,7K,0:54:36,0:54:13,449
+3154,Carbajal Perez,Marleny,F,40-99,7K,0:56:32,0:55:55,470
+3273,Cardenas,Ariana,F,18-39,7K,0:54:30,0:53:53,447
+383,Cardenas Flores,Jorge Jarol,M,18-99,7K Colaboradores,0:47:29,0:46:26,106
+3072,Cardozo Sala,Renzo Heli,M,18-39,7K,0:31:42,0:31:20,62
+3375,Carhuajulca Adrian,Roxana,F,18-39,7K,1:00:15,0:59:47,503
+3765,Caro,Shaly,F,18-39,7K,0:56:17,0:54:36,468
+3007,Caro Arevalo,Julissa,F,18-39,7K,1:04:22,1:03:49,539
+3130,Carranza Boulangger,Alvaro,M,18-39,7K,0:45:28,0:45:09,291
+246,Carranza Molocho,Delicia,F,18-99,7K Colaboradores,0:39:27,0:39:23,49
+3421,Carranza Palacios,Sonia Monica,F,40-99,7K,0:54:17,0:54:07,442
+410,Carrillo Julca,Luis,M,18-99,7K Colaboradores,0:45:26,0:44:48,93
+3151,Cartolin Ochoa,Julio Cesar,M,40-99,7K,0:56:12,0:55:35,465
+3910,Casas Liza,Oscar,M,40-99,7K,0:40:37,0:40:34,200
+204,Casavilca Lazo,Milagros,F,18-99,7K Colaboradores,0:54:39,,149
+3828,Castañeda,Giancarlo,M,18-39,7K,0:45:50,0:45:36,299
+3462,Castañeda Arias,Scalet,F,18-39,7K,1:05:28,1:05:06,549
+3460,Castañeda Capillo,Magdalia,F,40-99,7K,0:46:06,0:45:44,303
+628,Castañeda Capillo,Roberto Arnaldo,M,18-99,7K Colaboradores,0:43:11,0:42:33,78
+3693,Castañeda Macedo,Samy,F,18-39,7K,0:43:31,0:43:09,251
+3783,Castillo,Martin,M,18-39,7K,1:06:23,1:06:23,561
+3271,Castillo Gamboa,Roberto,M,18-39,7K,0:40:11,0:39:24,190
+3386,Castillo Sakoda,Toshiko Gloria Elena,F,18-39,7K,0:58:23,0:58:23,490
+3792,Castro,Carlos,M,18-39,7K,0:35:22,0:34:32,106
+3585,Castro Chunga,Ivette Alejandra,F,18-39,7K,0:49:58,0:48:48,374
+3568,Castro Diaz,Camila Sofia,F,15-17,7K,0:53:11,0:53:02,425
+3833,Ccallocondo Ruiz,Alvaro,M,18-39,7K,0:39:59,0:39:16,185
+349,Ccalloquispe Merma,Fernando,M,18-99,7K Colaboradores,0:49:24,0:48:20,119
+3236,Ccalloquispe Morales,Luis Fernando,M,18-39,7K,0:38:34,0:37:46,160
+3207,Ccazany Roca,Manuel,M,18-39,7K,0:55:58,0:55:04,461
+3433,Céspedes,Cueto,M,40-99,7K,0:41:12,0:40:35,211
+3847,Chantoy Mendez,Aydee,F,18-39,7K,1:00:34,1:00:22,508
+584,Chavez Noriega,Omar Dario,M,18-99,7K Colaboradores,0:36:53,0:36:09,31
+3306,Chavez Tapia,Ricardo,M,18-39,7K,0:42:57,0:42:50,241
+59,Chaycha Bermudez,Samuel Ismael,M,18-99,7K Colaboradores,1:05:28,1:05:14,174
+3530,Chero Flores,Pamela,F,18-39,7K,0:47:54,0:47:47,337
+493,Chero Flores,Alexander Jesus,M,18-99,7K Colaboradores,0:29:59,0:29:57,3
+245,Chero Ortiz,Martin,M,18-99,7K Colaboradores,1:02:22,1:01:39,168
+3418,Chicana Dett,Walter Ascensión,M,40-99,7K,0:44:28,0:42:51,267
+248,Chinchay Flores,Raul,M,18-99,7K Colaboradores,0:39:17,0:38:22,48
+3880,Chiroque Castillo,Magali Esmerita,F,18-39,7K,0:46:30,0:46:23,309
+589,Chonto Vera,Larry Jarol,M,18-99,7K Colaboradores,0:36:42,0:35:56,28
+574,Chueca Arana,Norberto,M,18-99,7K Colaboradores,0:41:31,0:41:05,59
+3708,Cipriano,Cesar,M,18-39,7K,0:26:25,0:26:22,20
+51,Cirilo Granados,Paul Federick,M,18-99,7K Colaboradores,0:47:19,0:47:05,103
+125,Cisneros Chero,Javier Alosnso,M,18-99,7K Colaboradores,0:36:16,0:35:49,24
+75,Cisneros Ugarteche,Franco Enrique,M,18-99,7K Colaboradores,0:36:19,0:35:17,27
+3905,Claros Ramos,Elmer,M,18-39,7K,0:23:11,0:23:09,5
+116,Coasaca Mamani,Enrique,M,18-99,7K Colaboradores,0:42:39,0:42:10,68
+3249,Cobos Palacios,Luciano Sebastian,M,18-39,7K,0:43:40,0:43:14,253
+412,Cobos Palacios,Olenka,F,18-99,7K Colaboradores,0:51:32,,133
+3532,Coiscou Castro,Jacqueline Alexandra,F,40-99,7K,1:01:19,1:00:40,518
+3787,Company Guevara,Liz Catherine,F,18-39,7K,1:05:39,1:04:59,553
+3283,Coral Perez,Cesar Eberth,M,18-39,7K,1:03:13,1:02:17,532
+489,Cordova Rios,Liliana Milagros,F,18-99,7K Colaboradores,1:02:17,1:01:54,167
+3769,Cortez Camacho,Jose Martin,M,40-99,7K,0:40:51,0:40:25,203
+3391,Cosme Montañez,Ray Marduk,M,18-39,7K,0:53:28,0:53:07,433
+3431,Cotera Huamañahui,Luis David,M,40-99,7K,0:41:40,0:40:49,221
+56,Cotrina Becerra,Segundo Leonardo,M,18-99,7K Colaboradores,0:47:25,0:46:47,105
+3033,Cotrina Flores,Anderson,M,15-17,7K,1:01:54,1:01:17,526
+698,Coveñas Yovera,Jimmy Edy,M,18-99,7K Colaboradores,0:31:00,0:30:43,6
+3254,Coyla Mamani,Jaime Herbert,M,18-39,7K,0:45:05,0:44:37,282
+3476,Cruz Diaz,Rafael Alberto,M,40-99,7K,0:43:25,0:43:12,247
+3894,Cruz Lozano,Lucas,M,40-99,7K,0:33:50,0:33:47,85
+3038,Cruz Torres,Piero Andre,M,18-39,7K,0:48:03,0:47:04,340
+3878,Cuadros Llamoca,Enrique,M,18-39,7K,0:35:05,0:34:55,102
+451,Cuenca Espinoza,Abel Jaime,M,18-99,7K Colaboradores,0:44:18,0:44:14,87
+3581,Cueva Guayama,Ana Rosa,F,18-39,7K,0:40:22,0:39:52,194
+3915,Cueva Limo,Dreddy Miguel,M,18-39,7K,0:29:11,0:29:05,34
+3030,Cueva Sanchez,Yesferal Juliam,M,18-39,7K,0:48:47,0:38:06,360
+3475,Cutimbo Gonzales,Martiza Beatriz,F,40-99,7K,1:04:19,1:04:08,536
+3917,Davila Flores,Diego,M,18-39,7K,0:33:57,0:33:37,87
+543,Davila Maluquiz,Jose Apolinar,M,18-99,7K Colaboradores,0:38:20,0:38:03,40
+3514,De La Cruz Capani,Jovana,F,18-39,7K,0:24:48,0:24:48,10
+203,De La Cruz Cisneros,Raul Alfredo,M,18-99,7K Colaboradores,0:37:38,0:37:27,35
+3620,De La Cruz Flores,Lilia Isabel,F,18-39,7K,0:51:52,0:51:35,410
+3626,De La Cruz Prado,Wendy,F,18-39,7K,1:01:23,1:00:51,519
+3178,De La Cruz Samanez,Jorge Luis,M,40-99,7K,0:34:45,0:34:41,95
+3451,De La Cruz Valdera,Luis Enrique,M,18-39,7K,0:35:33,0:35:20,110
+3,De La Cruz Valdera,Carlos Alberto,M,18-99,7K Colaboradores,0:34:53,0:34:42,19
+675,Delgado Aguirre,Luis Miguel,M,18-99,7K Colaboradores,0:55:05,0:54:04,152
+3423,Delgado De La Flor P,León Lakshman,M,18-39,7K,0:33:40,0:33:03,82
+70,Delgado Rios,Fiorella Alejandra,F,18-99,7K Colaboradores,0:53:18,0:52:56,142
+3490,Deza Tirado,Jose Luis,M,40-99,7K,0:50:56,0:50:44,388
+3593,Dhoga Durand,Erika,F,18-39,7K,0:41:44,0:41:29,223
+3909,Diaz,Fernando Jaime,M,40-99,7K,0:30:23,0:30:17,48
+63,Diaz Castillo,Liz Catherine,F,18-99,7K Colaboradores,0:41:27,0:41:03,58
+3525,Diaz Coronel,Itala,F,18-39,7K,0:39:11,0:38:58,172
+115,Diaz Maldonado,Downnig,M,18-99,7K Colaboradores,0:38:07,0:37:28,38
+3040,Diaz Nuñez,Cinthya Paola,F,18-39,7K,1:01:36,1:00:24,522
+3555,Díaz Plasencia,Ana Rosa,F,18-39,7K,1:00:51,1:00:08,515
+468,Diaz Zevallos,Eduardo,M,18-99,7K Colaboradores,0:43:09,0:42:51,76
+3023,Diez Vela,Diego,M,18-39,7K,0:46:38,0:45:45,311
+3657,Dioses Ramirez,Surami,F,18-39,7K,0:48:07,0:48:07,341
+419,Dueñas Calderon,Stephanie Mireya,F,18-99,7K Colaboradores,0:41:56,0:40:10,62
+3426,Durand Ruiz,Karen,F,18-39,7K,1:00:27,0:59:44,505
+3488,Eicchorn Alayza,Ricardo,M,40-99,7K,0:44:19,0:44:05,263
+3794,Elias,Manuel Antonio,M,40-99,7K,0:36:08,0:35:22,121
+3268,Escalante,Félix,M,18-39,7K,0:33:46,0:33:08,83
+18,Espeza Castillo,Roy Antonny,M,18-99,7K Colaboradores,0:27:54,0:27:46,1
+3789,Espichan Cuba,Fabiola Lissette,F,18-39,7K,0:53:09,0:52:43,424
+671,Espinoza Ccorihuaman,Erick,M,18-99,7K Colaboradores,0:36:57,0:36:26,32
+3826,Espinoza Lopez,Raquel Karen,F,18-39,7K,1:01:34,1:01:28,520
+664,Estanga Espinoza,Jose Antonio,M,18-99,7K Colaboradores,0:51:53,0:51:27,135
+3556,Esteban Briceño,Brady Angel,M,18-39,7K,1:08:40,1:08:00,574
+3546,Estrada Ramos,Julio Raul Junior,M,18-39,7K,0:37:13,0:37:02,140
+3203,Estrella Ponce,Isaac Jose,M,18-39,7K,0:51:36,0:51:23,401
+3220,Estremadoyro Ruiz,Jorge Augusto,M,18-39,7K,0:45:20,0:45:20,286
+3898,Eulogio,Kely,F,15-17,7K,0:30:36,0:30:35,53
+3897,Eulogio Paucar,Sheyla,F,18-39,7K,0:25:37,0:25:36,14
+3598,Fajardo,Sergio,M,18-39,7K,0:36:51,0:36:40,130
+3750,Falcón,George,M,18-39,7K,1:00:37,1:00:37,512
+427,Falcon Carbajal,Lizahn,F,18-99,7K Colaboradores,0:56:52,0:56:27,158
+3922,Farfan,Francis,M,18-39,7K,0:41:29,0:41:12,216
+3212,Farias De La Cruz,Juan Carlos,M,18-39,7K,0:37:19,0:36:23,141
+3495,Fernandez,Diana,F,18-39,7K,0:53:03,0:52:20,423
+3498,Fernandez Jimenez,Fiorella Estefania,F,18-39,7K,1:00:10,0:59:24,502
+453,Fernandez Ochante,Pascual Mauro,M,18-99,7K Colaboradores,0:42:08,0:41:56,64
+348,Ferrel Lujan,Nelson,M,18-99,7K Colaboradores,0:53:58,0:53:53,146
+3632,Flores,Andy,M,15-17,7K,0:59:00,0:59:00,493
+3867,Flores Bautista,Pedro Daniel,M,40-99,7K,0:36:47,0:36:27,128
+3088,Flores Calderón,Luis Gerardo,M,18-39,7K,0:29:57,0:29:51,40
+3027,Flores Gallardo,Guisela Denisse,F,18-39,7K,0:36:06,0:34:52,119
+3281,Flores Martínez,Bryan Elías,M,18-39,7K,0:54:09,0:47:17,439
+3720,Flores Mendoza,Susana Carolina,F,18-39,7K,0:45:28,0:45:21,292
+3559,Flores Moreno,Oswaldo,M,40-99,7K,0:51:34,0:51:28,399
+3182,Flores Pereyra,Gianpiero,M,18-39,7K,0:38:40,0:38:29,163
+3261,Flores Revilla,Maria,F,40-99,7K,1:05:35,1:04:36,550
+3062,Flores Salinas,Vanessa Del Carmen,F,18-39,7K,0:56:45,0:56:25,473
+3331,Flores Salinas,Alexandra Mishelle,F,15-17,7K,1:04:48,1:04:30,543
+3725,Florez Jalixto,Luis Gabriel,M,18-39,7K,0:35:00,0:34:02,100
+147,Fonseca Villanueva,Donny,M,18-99,7K Colaboradores,0:42:47,0:41:38,70
+3120,Fortunatti Marquez,Manuel,M,18-39,7K,0:35:45,0:35:24,112
+3437,Fuchs,Rosa María,F,40-99,7K,1:07:37,1:07:03,570
+3885,Gahona Legua,Kandy Estefany,F,40-99,7K,0:45:24,0:44:58,288
+3651,Galindo Vera,Enmanuel,M,15-17,7K,0:45:42,0:44:53,297
+3314,Gallardo Ramirez,Cesar Augusto,M,40-99,7K,0:44:15,0:44:00,262
+3913,Galvan Gomez,Jimmy Flavio,M,18-39,7K,0:30:58,0:30:40,58
+3017,Galvez Carrasco,Fernando David,M,40-99,7K,0:43:02,0:42:32,242
+660,Galvez Perez,Carlos Alberto,M,18-99,7K Colaboradores,0:42:28,0:42:20,65
+3655,Gamez Daboin,Angel,M,18-39,7K,0:29:16,0:29:13,36
+3701,Garay Sifuentes,Roger Lenin,M,40-99,7K,0:40:07,0:40:00,188
+3492,García Castillo,Ginebra,F,18-39,7K,1:03:42,1:02:55,535
+3503,Garcia Quevedo,Alberto Alonso,M,18-39,7K,0:41:07,0:40:22,207
+3241,Garcia Requena,Vanessa Araceli,F,18-39,7K,0:43:30,0:43:03,250
+3784,Garcia Roca,Irma Norma,F,40-99,7K,1:00:28,0:59:39,507
+548,Garcia Romero,Jorge Luis,M,18-99,7K Colaboradores,0:53:03,0:52:04,140
+3742,Garcia Ruiz,Oscar Miguel,M,18-39,7K,0:51:30,0:50:43,396
+3511,Gariza Ashcalla,Maria,F,18-39,7K,0:51:43,0:51:16,406
+3340,Gaya Chumbe,Devorat Rosa,F,40-99,7K,0:52:38,0:52:08,417
+3471,Gereda Correa,Carlos Oswaldo,M,18-39,7K,0:57:00,0:56:55,476
+3566,Giraldo Rivera,Antonio,M,18-39,7K,0:41:05,0:41:02,206
+3911,Godenzi Vilcaromero,Michelle Ornely,F,18-39,7K,0:45:52,0:45:34,300
+3508,Godoy Escalante,Willian Arnaldo,M,40-99,7K,0:41:19,0:41:02,213
+3685,Godoy Santos,Claudia Marcela,F,18-39,7K,0:42:37,0:42:19,238
+3245,Gomez,Perla,F,18-39,7K,0:45:26,0:45:07,290
+317,Gomez Condori,Christian,M,18-99,7K Colaboradores,0:39:13,0:38:50,47
+3111,Gomez Davila,Luis Fernando,M,18-39,7K,0:53:26,0:52:51,432
+391,Gonzales Atala,Grecia,F,18-99,7K Colaboradores,1:01:23,1:00:40,165
+3084,Gonzales Chumo,Miguel,M,18-39,7K,0:39:19,0:38:39,174
+3596,Gonzales Crisanto,Cinthia,F,18-39,7K,0:48:40,0:48:14,354
+259,Gonzales Huaraca,Henry,M,18-99,7K Colaboradores,0:44:10,0:43:32,86
+521,Gonzales Truevas,David,M,18-99,7K Colaboradores,0:48:17,0:47:56,113
+3775,Gordillo Andrade,Luis,M,18-39,7K,0:35:28,0:35:05,107
+575,Grandez Tello,Jorge,M,18-99,7K Colaboradores,0:47:24,0:46:52,104
+3741,Guerra,Veronica,F,18-39,7K,0:53:24,0:53:07,430
+3815,Guerra Rios,Gustavo Antonio,M,18-39,7K,0:44:39,0:43:59,272
+3024,Guerrero,Sofia,F,18-39,7K,0:48:19,0:47:25,347
+3694,Guerrero Gonzaga,Carmen Adela,F,18-39,7K,0:43:58,0:43:55,256
+554,Guerrero Silva,Ronal,M,18-99,7K Colaboradores,0:50:35,0:49:35,127
+573,Guerrero Valverde,Hector Manuel,M,18-99,7K Colaboradores,0:54:32,0:53:45,147
+3896,Guevara,Levano,F,18-39,7K,0:55:23,0:53:51,458
+377,Guevara Aquije,Julio César,M,18-99,7K Colaboradores,0:49:24,0:49:02,120
+3837,Guevara Cristobal,Joffrey Michael,M,18-39,7K,0:45:45,0:45:45,298
+3920,Guitierrez Boa,Carlos,M,18-39,7K,0:26:07,0:26:01,16
+3889,Gutierrez Gonzales,Irma,F,40-99,7K,0:40:04,0:39:51,186
+3412,Gutierrez Zapata,Margiory,F,18-39,7K,0:57:09,0:56:34,479
+3201,Guzman Jima,Rosario,F,18-39,7K,0:51:37,0:51:24,402
+3351,Hancco Soncco,Diana Rocio,F,18-39,7K,0:42:25,0:42:00,235
+3002,Harmsen,Nicholas,M,18-39,7K,1:04:21,1:01:33,537
+3145,Henrriquez Diaz,Maria Rosa,F,18-39,7K,0:34:14,0:33:57,89
+3631,Hernandez,Yerson,M,15-17,7K,0:30:45,0:30:25,57
+631,Herrera Hoyos,Elba Herrera,F,18-99,7K Colaboradores,0:53:17,0:52:34,141
+3768,Hidalgo,Pedro Felipe,M,18-39,7K,1:02:08,1:00:27,529
+153,Hinojosa Cora,Victor Gaston,M,18-99,7K Colaboradores,0:48:14,0:47:36,112
+3494,Hinostroza Borda,Ricardo Luis,M,40-99,7K,0:49:15,0:48:30,365
+3887,Hinostroza Yllanes,Flor Nelly,F,18-39,7K,1:07:39,1:07:39,571
+3131,Holguin Alvarado,Rudy,M,40-99,7K,0:29:11,0:29:02,35
+3246,Holguin Rodriguez,Gustavo Elias,M,40-99,7K,0:43:21,0:42:45,245
+672,Hoyos Cruz,Keiler Alexis,M,18-99,7K Colaboradores,0:35:04,0:34:45,21
+45,Huacac Quispe,Wilber,M,18-99,7K Colaboradores,0:48:09,0:45:42,111
+3070,Huaimacari Vargas,Vivia,F,18-39,7K,0:42:31,0:42:15,237
+3749,Huaman Chamorro,Anali,F,18-39,7K,0:56:50,0:55:53,475
+3583,Huaman Palain,Diego Gian Marcos,M,40-99,7K,0:45:26,0:45:04,289
+670,Huaman Romero,Eduardo,M,18-99,7K Colaboradores,0:35:54,0:35:19,23
+3383,Huaman Saavedra,Kelly Moraima,F,18-39,7K,1:02:04,1:01:28,527
+3716,Huanca Arcella,Maria Mercedes,F,18-39,7K,0:29:41,0:29:40,38
+3360,Huapaya Zevallos,Christian Theo,M,18-39,7K,0:48:46,0:48:10,359
+3329,Huaquisaca Coaquira,Yovani,M,18-39,7K,0:45:07,0:44:37,283
+3748,Huatarongo Lopez,Virginia,F,18-39,7K,0:26:12,0:26:11,18
+3162,Huaylinos Cardenas,Jessica Iris,F,18-39,7K,1:00:37,1:00:37,510
+3217,Huertas Rojas,Mario,M,15-17,7K,0:55:05,0:55:05,452
+3216,Huertas Rojas,Ivonne,F,18-39,7K,0:55:59,0:55:59,463
+3621,Hunberbühler Fritsch,Silvan,M,18-39,7K,0:41:37,0:41:02,218
+3605,Hurtado Hermoza,Francisco Amador,M,18-39,7K,0:37:02,0:36:15,134
+164,Inca Davila,Jack,M,18-99,7K Colaboradores,0:48:34,0:48:14,114
+3874,Infante Atencio,Nilton,M,18-39,7K,0:38:02,0:37:36,154
+3419,Infante Mora,Francisco Jose,M,40-99,7K,0:57:16,0:56:50,481
+3480,Inga Cunya,Eduardo Enrique,M,18-39,7K,0:57:01,0:56:56,477
+3681,Inga García,Cristian Wilder,M,18-39,7K,0:28:30,0:28:26,29
+3179,Irvin,Leon,M,18-39,7K,0:41:30,0:40:18,217
+3714,Ito Ccuro,Nelson,M,18-39,7K,0:21:19,0:21:18,2
+3547,Jacinto Sanchez,Gisela Carla,F,18-39,7K,0:48:10,0:47:58,342
+3538,Janett,Rodriguez Raymundo,F,40-99,7K,0:32:03,0:32:00,65
+418,Jara Tarazona,Carlos Alberto,M,18-99,7K Colaboradores,0:28:35,0:28:17,2
+3020,Jefferson Andre,García Mendoza,M,18-39,7K,0:34:33,0:34:33,92
+3240,Jhuly,Espinal Montes,F,18-39,7K,0:50:29,0:50:02,380
+223,Jimenez Cruz,Marco,M,18-99,7K Colaboradores,1:01:19,0:59:57,164
+3501,Jinés Mendoza,Johanna Rosario,F,18-39,7K,0:42:08,0:41:25,229
+29,Juarez Anton,Jonathan Manuel,M,18-99,7K Colaboradores,0:54:58,0:54:44,151
+3923,Juarez Carmona,Claudia,F,18-39,7K,0:39:36,0:39:20,180
+3504,Junchaya Diaz,Rosa Natalia,F,18-39,7K,0:50:55,0:50:09,386
+3167,Junco Chihuan,Henry Alexander,M,18-39,7K,0:51:49,0:50:55,408
+3326,Karen,Hernández Palmieri,F,18-39,7K,0:47:15,0:47:10,322
+588,Landio Burga,Luis Adrian,M,18-99,7K Colaboradores,0:39:13,0:38:43,46
+3904,Lara Gonzales,Rosmery,F,18-39,7K,1:05:38,1:05:38,552
+3656,Larrea,Jandhy Jose,M,18-39,7K,0:31:03,0:30:56,60
+3332,Larriega Vigil,Cesar Armando,M,40-99,7K,0:36:54,0:36:33,131
+3468,Leon,Jenifer,F,18-39,7K,0:45:03,0:44:09,280
+3119,Leon Ochoa,Sandra,F,18-39,7K,0:46:04,0:45:34,302
+3049,León Payano,Robert Alexander,M,18-39,7K,0:57:17,0:56:48,482
+3004,Licetti Villaorduña,Renato Alonso,M,18-39,7K,0:41:15,0:40:15,212
+3604,Liñan Gamarra,Marleni,F,40-99,7K,0:57:35,0:56:36,486
+3640,Linares Flores,Milka Veva,F,40-99,7K,0:49:13,0:47:46,364
+3071,Linares Huaimacari,Jerico,M,15-17,7K,0:32:18,0:32:14,67
+3606,Linares Lipe,Yaquelin Sandra,F,18-39,7K,0:48:45,0:48:04,358
+128,Linares Pacaya,Pablo,M,18-99,7K Colaboradores,0:35:17,0:35:11,22
+3453,Lindo Mauricio,Jairo,M,18-39,7K,0:45:15,0:44:44,284
+3766,Lino Peña,Jaime,M,18-39,7K,0:56:10,0:55:08,464
+3116,Llanos Silva,Jorge Luis,M,40-99,7K,0:37:43,0:36:52,145
+3239,Loayza,Rafael,M,40-99,7K,0:47:05,0:47:00,317
+3615,Loayza,Luisa,F,40-99,7K,1:00:56,1:00:44,516
+3798,Lopez,David,M,40-99,7K,0:43:16,0:42:27,243
+3518,Lopez Aragon,Damaso,M,40-99,7K,0:41:40,0:40:13,219
+3302,Lopez Barrantes,Darcy,F,18-39,7K,0:36:22,0:35:07,127
+155,Lopez Barrantes,Erick Herbert,M,18-99,7K Colaboradores,0:49:55,0:48:38,123
+3744,Lopez Chavez,Ruben Abel,M,18-39,7K,0:37:59,0:37:11,152
+505,Lopez Garcia,Vicente Pablo,M,18-99,7K Colaboradores,0:36:48,0:36:33,30
+3839,Lopez Guzman,Yasmil,F,18-39,7K,0:28:00,0:28:00,25
+3622,Lopez Rojas,Sergio Angel Antonio,M,18-39,7K,0:36:19,0:35:44,126
+3921,Lopez-torres Trelles,Valeria Ximena,F,18-39,7K,0:36:19,0:36:01,125
+3723,Lozada Rivera,Jose,M,18-39,7K,0:41:02,0:40:04,205
+3805,Lozano Flores,Gian Percy,M,18-39,7K,0:54:32,0:54:28,448
+3647,Lozano Ruiz,José Carlos,M,18-39,7K,0:40:38,0:40:31,201
+3243,Lozano Sierra,Bryan,M,18-39,7K,0:38:05,0:36:47,155
+3879,Lucero Agüero,Omar Alonso,M,18-39,7K,0:33:48,0:32:59,84
+3684,Luna Rivera,Jaime,M,40-99,7K,0:32:49,0:32:42,73
+3102,Luna Saavedra,Josue Jesus,M,18-39,7K,0:40:06,0:39:27,187
+3103,Luna Saavedra,Jesus Jafet,M,18-39,7K,0:41:11,0:40:31,210
+3101,Luna Saavedra,Joel Jesus,M,18-39,7K,0:42:22,0:41:43,233
+3466,Luycho Bautista,Porfirio,M,18-39,7K,0:28:21,0:28:11,27
+23,Luyo Yactayo,Kristhel Elena,F,18-99,7K Colaboradores,1:07:31,1:07:08,175
+288,Madrid Molleda,Guillermo,M,18-99,7K Colaboradores,0:46:40,0:45:51,101
+235,Malaver Muñoz,Marco Antonio,M,18-99,7K Colaboradores,0:53:30,0:52:47,145
+537,Mamani Gonzales,Edgar,M,18-99,7K Colaboradores,0:39:10,0:38:52,45
+3077,Manturano Ibarra,Luz Jenny,F,18-39,7K,0:33:55,0:33:53,86
+290,Marañon Camacho,Maria Del Pilar,F,18-99,7K Colaboradores,1:02:59,1:01:41,171
+3902,Martin Ambrocio,Ulises Jhamer,M,18-39,7K,0:20:45,0:20:45,1
+3724,Martinez Chavez,Isabel,F,18-39,7K,0:48:30,0:48:23,349
+3274,Martínez Guillen,Melita Grecia,F,18-39,7K,1:05:55,1:05:36,556
+3006,Martinez Guillen,Thalia Dionicia,F,18-39,7K,1:06:04,1:05:32,560
+500,Martinez Gutierrez,Marco,M,18-99,7K Colaboradores,0:51:51,0:50:35,134
+3706,Martinez Ochoa,Miguel Angel,M,18-39,7K,0:39:36,0:39:18,179
+3587,Martínez Vega,Juan Javier,M,40-99,7K,0:38:54,0:38:41,166
+3292,Massa,Martin,M,18-39,7K,0:51:30,0:50:36,397
+3343,Mattza Herrera,Alejandro Carlos,M,18-39,7K,0:53:21,0:52:30,428
+3552,Mauricio Vargas,James,M,18-39,7K,0:38:56,0:38:44,168
+3356,Mayca Zegarra,Wilber Gian Franco,M,18-39,7K,0:33:19,0:32:53,79
+3427,Maza Zapata,Ángel Miguel,M,18-39,7K,0:33:18,0:32:53,78
+3499,Mecklemburg Chamochu,Cytnhia Carolina,F,18-39,7K,0:52:05,0:51:22,414
+3384,Medrano Galves,Janett Irene,F,18-39,7K,0:47:16,0:45:44,323
+3624,Medrano Guerra,Carla,F,18-39,7K,0:36:49,0:36:13,129
+3660,Melgar Lazarte,Lucia Gabriela,F,15-17,7K,0:45:04,0:45:00,281
+3548,Melgarejo,Martha,F,18-39,7K,0:38:58,0:38:24,169
+3565,Mena Ortiz,Judith,F,18-39,7K,0:38:08,0:37:59,156
+3279,Mendez Cortez,Katia Roxana,F,18-39,7K,1:00:37,1:00:37,513
+3743,Mendoza Chamana,Renso Daniel,M,18-39,7K,0:40:31,0:39:56,197
+7,Mendoza Mendoza,Paulo Cesar,M,18-99,7K Colaboradores,0:45:57,0:45:43,96
+3570,Mendoza Vera,Leandro,M,18-39,7K,0:46:16,0:45:59,306
+3625,Mercado Alcantara,Luis Arturo,M,15-17,7K,0:30:30,0:30:28,50
+3444,Merino Ortega,Iván,M,18-39,7K,0:47:54,0:47:10,335
+286,Meza,Mariela,F,18-99,7K Colaboradores,0:55:07,0:53:49,153
+3674,Meza Monteblanco,Jorge Victor,M,40-99,7K,0:59:44,0:58:46,500
+3564,Meza Ore,Jenny Anita,F,18-39,7K,0:49:36,0:48:50,369
+3441,Miguelm1504@gmaiL.Co,Miguel Octavio Mella,M,18-39,7K,0:33:30,0:33:27,81
+3286,Milla Botello,Vladimir Alfonso,M,18-39,7K,1:03:13,1:03:13,533
+3337,Mimbela Talavera,Sandra,F,18-39,7K,1:01:42,1:00:26,524
+297,Miranda Rojas,Pedro,M,18-99,7K Colaboradores,0:40:31,0:39:45,54
+3449,Mitma Enciso,Jose Carlos,M,18-39,7K,0:47:04,0:46:40,316
+3367,Mogrovejo Ramos,Luis Angel,M,40-99,7K,0:44:12,0:44:02,258
+3284,Mónica,Álvarez Calderón Láz,F,18-39,7K,0:53:28,0:52:46,434
+3841,Monsalve Sandoval,Nelly,F,18-39,7K,0:30:07,0:29:53,44
+3244,Montalva BenaventE.,Brenda Paola,F,18-39,7K,0:45:23,0:45:12,287
+138,Montalvan Ibarra,Jaime Jose,M,18-99,7K Colaboradores,0:34:31,0:34:24,16
+3075,Montalvan Sotelo,Samira Gianela,F,15-17,7K,0:55:58,0:55:20,460
+92,Montalvo Baca,Nancy,F,18-99,7K Colaboradores,0:44:44,0:44:37,89
+494,Montaño Romero,Roberto Oliver,M,18-99,7K Colaboradores,0:42:37,0:42:26,66
+3181,Montenegro Gonzalez,Gladys Teresa De Jes,F,18-39,7K,0:44:36,0:44:17,270
+3575,Montes Piñas,Niskar Omayra Mauree,F,18-39,7K,0:51:30,0:50:37,395
+3312,Monteverde Carbonero,Grover Martin,M,18-39,7K,0:39:22,0:39:02,175
+3779,Montoya Castilla,Ricardo Gabriel,M,18-39,7K,0:58:36,0:57:38,492
+72,Montoya Chavez,Edson,M,18-99,7K Colaboradores,0:54:33,0:53:50,148
+3793,Morales,Ricardo,M,18-39,7K,0:28:47,0:28:41,32
+683,Morales Neyra,Marco Alexis,M,18-99,7K Colaboradores,0:49:25,0:48:30,121
+3029,Morales Vasquez,Yrving Augusto,M,18-39,7K,0:42:12,0:41:20,230
+3510,Morales Vilca,Jose Antonio,M,18-39,7K,0:39:58,0:39:33,184
+295,Moran Caro,Celestino,M,18-99,7K Colaboradores,0:50:39,0:50:03,128
+3353,Morante Espinoza,Joe Paul,M,40-99,7K,0:51:16,0:50:19,392
+488,Moreno Caldas,Katya Anais,F,18-99,7K Colaboradores,0:47:31,0:46:44,107
+298,Moreno Cerda,Kevin Harol,M,18-99,7K Colaboradores,0:45:35,0:44:51,95
+3347,Moreno Egusquiza,Bernabe Alberto,M,40-99,7K,0:49:49,0:49:30,371
+3455,Moreno Huaman,Obed,M,18-39,7K,0:53:02,0:52:17,422
+511,Moreno Medina,Kevin Alberto,M,18-99,7K Colaboradores,0:43:07,0:42:48,74
+3600,Moreno Pajuelo,Fatima,F,18-39,7K,0:49:53,0:49:23,372
+674,Moreno Simon,Ange Miluska,F,18-99,7K Colaboradores,0:45:26,0:44:42,94
+3393,Moreno Tapia,Julio Cesar,M,18-39,7K,0:50:19,0:49:49,378
+3493,Morey,Karen,F,18-39,7K,0:53:26,0:52:38,431
+3577,Mori Flores,Felix,M,18-39,7K,0:57:07,0:56:52,478
+3884,Moscoso,Lesly Pamela,F,18-39,7K,0:37:06,0:36:57,137
+3454,Moteo Ramos,Carlos Fernando,M,18-39,7K,0:44:23,0:43:39,265
+436,Mulanovich Barrios,Alejandro,M,18-99,7K Colaboradores,0:43:18,0:42:13,81
+3479,Muller Corbacho,Giacomo,M,18-39,7K,0:39:48,0:39:41,183
+3478,Muller Corbacho,Nicolas,M,18-39,7K,0:55:06,0:54:59,454
+485,Muñoz Marcos Sánchez,Andrea Valentina,F,18-99,7K Colaboradores,0:57:07,0:56:52,159
+486,Murga Bayona,Paola Liset,F,18-99,7K Colaboradores,0:47:52,0:47:31,109
+3900,Napa,Luis,M,40-99,7K,0:54:29,0:53:26,445
+3125,Ñato Ocrospoma,Alexandra,F,18-39,7K,0:47:37,0:47:07,328
+3124,Ñato Ocrospoma,Gianella,F,18-39,7K,0:54:23,0:53:56,444
+3470,Navarro Paico,Diana,F,18-39,7K,1:01:37,1:01:25,523
+3830,Navarro Tijias,Marcia Llamileth,F,15-17,7K,0:47:58,0:47:49,339
+3339,Naveda Ruiz,Maite Stybalis,F,18-39,7K,0:31:07,0:31:07,61
+3338,Naveda Ruiz,Malena Milagros,F,18-39,7K,0:47:10,0:46:41,320
+3840,Nayap Tsejem,Jhanet,F,15-17,7K,0:49:16,0:49:07,366
+3682,Negron,Marco,M,18-39,7K,0:56:17,0:55:39,467
+3420,Neyra,Rodrigo,M,40-99,7K,0:34:53,0:34:45,97
+3483,Noa,Felix,M,40-99,7K,0:47:52,0:47:49,334
+3184,Noe Rondon,Jorge,M,40-99,7K,0:30:40,0:30:34,55
+3851,Noningo Wisui,Orfelinda,F,15-17,7K,1:02:24,1:02:17,530
+3747,Nuñez Condori,Margarita,F,18-39,7K,0:24:58,0:24:57,11
+3109,Nuñez Muñoz,Brigitte,F,18-39,7K,0:53:19,0:52:46,426
+3698,Obregon Flores,Humberto Benigno,M,40-99,7K,0:23:48,0:23:47,7
+3739,Oliva Borjas,Fernando Sebastian,M,18-39,7K,0:49:28,0:48:39,368
+3100,Olivares Abad,Cecilia,F,18-39,7K,0:46:39,0:46:00,312
+73,Oliveira Cambiaso,Daniel Alessandro,M,18-99,7K Colaboradores,0:49:42,,122
+3445,Omar Alonso,Quispicondor Estelo,M,18-39,7K,0:28:27,0:28:25,28
+328,Ordinola Morante,Juan Carlos,M,18-99,7K Colaboradores,0:37:55,0:37:19,36
+3551,Orellana Soto,Edwin Raul,M,40-99,7K,0:48:39,0:48:22,353
+3718,Orrillo Ccahuay,Germán,M,40-99,7K,0:28:10,0:28:02,26
+154,Ortiz Mejia,Alan Christian,M,18-99,7K Colaboradores,0:40:11,0:39:20,52
+662,Ortiz Remigio,Arturo Luis,M,18-99,7K Colaboradores,0:54:40,0:54:24,150
+3849,Osco Aliaga,Arascely,F,18-39,7K,0:47:57,0:47:51,338
+3335,Osorio Pimentel,Rosa Luz,F,40-99,7K,0:29:58,0:29:56,41
+696,Osorio Zapata,Robert,M,18-99,7K Colaboradores,0:52:15,0:51:50,139
+3221,Otarola Santivañez,Maria Belen,F,18-39,7K,0:33:05,0:32:48,76
+3112,Oviedo Bautista,Andrea Yovana,F,18-39,7K,1:04:23,1:03:50,540
+3031,Pachas Huilca,Angel Daniel,M,40-99,7K,0:55:13,0:44:34,456
+3601,Pacheco,Jimmy,M,18-39,7K,0:49:11,0:48:56,363
+3774,Pacheco Calderón,Alejandra,F,18-39,7K,0:39:11,0:38:45,173
+167,Padilla Del Valle,Stefania Belen,F,18-99,7K Colaboradores,0:47:18,0:46:56,102
+310,Padilla Herrera,Brenda Brysell,F,18-99,7K Colaboradores,0:51:53,0:51:00,136
+535,Palacios Bernaola,Luis Enrique,M,18-99,7K Colaboradores,0:33:18,0:33:16,12
+225,Palacios Villanueva,Martin,M,18-99,7K Colaboradores,0:48:36,0:48:20,115
+3670,Palomino Macalupu,Walter Lincoln,M,15-17,7K,0:38:34,0:38:16,161
+3133,Palomino Reyes,Christian,M,18-39,7K,0:37:43,0:36:52,146
+3832,Palomino Vega,Hernan Manuel,M,40-99,7K,0:30:07,0:29:53,43
+3665,Panchano Garcia,Joshua,M,15-17,7K,0:32:25,0:32:16,68
+3710,Panizo Valladares,Ernesto Rodolfo,M,40-99,7K,0:36:16,0:36:07,124
+67,Pantoja Vilchez,Silvia Ivette,F,18-99,7K Colaboradores,0:59:19,0:59:08,163
+3091,Papuico Cardenas,Victor Raul,M,15-17,7K,0:29:58,0:29:56,42
+179,Papuico Turin,Raul Franklin,M,18-99,7K Colaboradores,0:36:18,0:36:07,26
+3472,Pardo Vilchez,Diana Doris,F,18-39,7K,1:04:49,1:04:37,545
+3557,Paredes,Jorge,M,18-39,7K,0:37:20,0:36:52,142
+3549,Paredes Calderon,Rozvi,M,18-39,7K,0:42:27,0:41:52,236
+3930,Paredes Medina,Luis Alberto,M,40-99,7K,0:36:15,0:36:05,123
+3258,Paredes Ramos,Rebeca Sachiko,F,18-39,7K,0:57:18,0:44:04,483
+3311,Pariño Arias,Gerald Omar,M,18-39,7K,0:45:53,0:45:50,301
+559,Parraga Sibille,Stefano Raul,M,18-99,7K Colaboradores,0:51:10,0:49:59,131
+109,Pasache Valencia,Carlos Jesus,M,18-99,7K Colaboradores,0:37:28,0:37:23,34
+458,Pasapera Torres,Hector Jimmy,M,18-99,7K Colaboradores,0:38:24,0:38:05,41
+3328,Pasapera Tupiño,Samuel,M,18-39,7K,0:44:07,0:43:37,257
+137,Paucar Cedron,Juan Sebastian,M,18-99,7K Colaboradores,0:44:51,0:44:49,91
+3591,Pedraza Avalos,Karina,F,18-39,7K,0:51:41,0:41:06,405
+3667,Peña Avile,Isaac De Jesus,M,15-17,7K,0:26:25,0:26:23,19
+446,Peña Campos,Jime Teodolfo,M,18-99,7K Colaboradores,0:34:53,0:34:36,18
+3012,Peña Salardi,Jose Eduardo,M,40-99,7K,0:40:31,0:38:59,196
+3638,Peña Zapata,Arturo Jefferson,M,18-39,7K,0:32:30,0:32:21,69
+3481,Peralta Rivera,Yadriel Eduardo,M,15-17,7K,1:07:30,1:07:26,567
+3208,Perea Flores,Cesar Valentino,M,18-39,7K,0:38:43,0:37:45,164
+3262,Perea Manco,Cesar,M,40-99,7K,1:07:32,1:06:34,569
+536,Perez Chacon,Cristian Diego,M,18-99,7K Colaboradores,0:46:16,0:45:52,99
+3200,Pimentel Sanchez,Pol Alexander,M,18-39,7K,0:41:45,0:41:30,225
+3465,Pinillos Cordova,Augusto,M,18-39,7K,0:44:13,0:43:18,260
+3666,Poma,Sebastian Rene,M,15-17,7K,0:25:22,0:25:20,12
+368,Pomiano Oyola,Bernardo Jesús,M,18-99,7K Colaboradores,0:41:54,0:41:32,61
+507,Ponce Andrade,Joel,M,18-99,7K Colaboradores,0:31:07,,7
+367,Porras Gabriel,William,M,18-99,7K Colaboradores,0:50:11,0:39:21,124
+3659,Pozo Miguel,Jose Armando,M,18-39,7K,0:34:44,0:34:34,94
+3677,Prado Malvaceda,Ruben Rodolfo,M,40-99,7K,0:55:05,0:53:59,451
+60,Prieto Ramos,Hector Mario,M,18-99,7K Colaboradores,0:43:18,0:43:03,82
+3307,Puleo Morin,Gianluca,M,15-17,7K,0:48:11,0:47:34,344
+657,Purisaca Ubillus,Alejandro Jefferson,M,18-99,7K Colaboradores,0:33:34,0:33:31,14
+666,Quiñonez Tarazona,Richard,M,18-99,7K Colaboradores,0:43:14,0:42:29,80
+3770,Quintanilla Alvarez,Alvaro,M,40-99,7K,0:44:27,0:44:00,266
+3683,Quiroz,Juanarosa,F,40-99,7K,0:32:09,0:32:08,66
+3791,Quiroz Mallqui,Rolando,M,40-99,7K,0:48:28,0:47:43,348
+3799,Quispe,Juan,M,40-99,7K,0:40:17,0:39:27,193
+3524,Quispe Diaz,Brayan Junnior,M,15-17,7K,0:35:45,0:35:30,113
+3527,Quispe Diaz,Angui Jamilet,F,15-17,7K,0:50:54,0:50:41,385
+3252,Quispe Quispe,David Jose,M,18-39,7K,0:46:59,0:46:27,315
+3267,Quispe Quispe,Cynthia Pilar,F,18-39,7K,0:59:44,0:59:11,501
+3344,Quispe Salazar,Henry Pool,M,40-99,7K,0:57:26,0:57:06,484
+3782,Quispe Saldaña,Julio,M,18-39,7K,0:27:43,0:27:38,23
+3417,Quispe Saldaña,Gabriel,M,18-39,7K,0:34:39,0:34:31,93
+384,Quispe Santiago,Jorge Luis,M,18-99,7K Colaboradores,0:39:51,0:39:47,50
+3824,Quiston Esash,Mabel,F,18-39,7K,0:46:52,0:46:45,313
+3542,Ramirez Rojas,Rina,F,18-39,7K,0:53:23,0:53:10,429
+3804,Ramirez Villavicenci,Jorge Andres,M,40-99,7K,0:47:46,0:47:26,330
+3117,Ramos Marquez,Liliana,F,18-39,7K,0:47:18,0:46:58,324
+539,Ramos Zuñiga,Raul,M,18-99,7K Colaboradores,0:31:45,0:31:43,9
+3617,Rastrollo Rafael,Miguel Angel,M,40-99,7K,0:24:34,0:24:33,9
+3222,Raymundo Elias,Jury,F,18-39,7K,0:37:48,0:37:39,147
+3891,Real Nuñez,Andrea,F,18-39,7K,0:59:22,0:59:11,499
+3800,Rengifo,Edmundo,M,18-39,7K,0:37:05,0:36:16,135
+3485,Rengifo Huapaya,Roger Raul,M,18-39,7K,0:35:12,0:35:10,104
+3881,Retis Atiquipa,Yeni,F,18-39,7K,1:01:35,1:01:07,521
+3612,Reyes Bermeo,Roberth Cristopher,M,18-39,7K,0:46:57,0:46:47,314
+3357,Reyes Llerena,Aldo,M,40-99,7K,0:30:25,0:30:21,49
+3359,Reyes Vallejos,Ayrton,M,15-17,7K,0:30:39,0:30:35,54
+3711,Reynoso Gallo,Jorge Antonio,M,18-39,7K,0:39:38,0:28:36,181
+3589,Rios Arbulu,Carla,F,18-39,7K,1:07:09,0:56:32,563
+3520,Rivas Alvino,Bernar Frank Luis,M,18-39,7K,1:00:26,0:59:30,504
+3482,Rivera,Juan Pablo,M,40-99,7K,1:07:31,1:07:20,568
+3664,Rivera Ortiz,Sonia Judith,F,15-17,7K,0:39:38,0:39:29,182
+3590,Rodriguez,Julissa,F,18-39,7K,1:07:10,0:56:33,564
+3214,Rodriguez Llacza,Karina,F,40-99,7K,0:42:14,0:41:18,231
+3595,Rodriguez C.,Gianfranco,M,18-39,7K,0:37:20,0:36:50,143
+3635,Rodriguez Chavez,Jesus Jose,M,18-39,7K,0:30:33,0:30:21,51
+3366,Rodriguez Morales,Michell Antonio,M,40-99,7K,0:48:42,0:47:36,357
+3709,Rodriguez Silva,Arnold,M,15-17,7K,0:26:11,0:26:09,17
+3228,Rojas,Herrera,M,40-99,7K,0:33:29,0:32:47,80
+3099,Rojas,Paola,F,18-39,7K,1:06:02,1:05:06,557
+3058,Rojas Hermoza,Erika,F,18-39,7K,0:55:06,0:54:15,453
+3929,Rojas Julca,George Bryan,M,18-39,7K,0:32:43,0:32:09,70
+3890,Rojas Pimentel,Jose Luis,M,40-99,7K,0:39:10,0:38:43,171
+3619,Rojas Romero,Christian Paul,M,18-39,7K,0:32:50,0:32:43,74
+3127,Rojas Yamunaque,Gustavo Adolfo,M,40-99,7K,0:39:22,0:38:19,176
+3813,Romero,Raul Joel,M,18-39,7K,1:05:52,1:05:13,554
+3015,Romero Anton,Sebastian Franco,M,18-39,7K,0:42:25,0:42:11,234
+398,Romero Gomez,Josnel Harly,M,18-99,7K Colaboradores,0:36:44,0:36:21,29
+3021,Romero Paz,Oscar Augusto,M,18-39,7K,0:48:31,0:47:47,350
+3166,Romero Salazar,Anderson,M,15-17,7K,0:44:46,0:43:45,275
+3165,Romero Salazar,Roel Vladimir,M,15-17,7K,0:44:46,0:43:45,276
+3163,Romero Soplopuco,Ana Cecilia,F,18-39,7K,0:52:59,0:52:00,419
+315,Romero Soplopuco,Roel,M,18-99,7K Colaboradores,0:52:06,0:51:06,138
+592,Romero Zelaya,Evelyn Liliana,F,18-99,7K Colaboradores,0:58:29,0:58:04,162
+3269,Roncal,Richard,M,18-39,7K,0:51:23,0:50:46,393
+3028,Ronceros Reyes,Christians,M,18-39,7K,0:55:59,0:55:05,462
+3277,Rondan Escudero,Neceser Jose,M,18-39,7K,0:26:57,0:26:54,22
+3925,Roque Zapata,Juan Ernestor,M,18-39,7K,0:34:59,0:34:42,99
+3188,Rosado Rodriguez,Nelia Alexsandra,F,18-39,7K,0:43:22,0:42:51,246
+3293,Rosales Requejo,Juan Jose Angel,M,18-39,7K,0:35:01,0:34:06,101
+3008,Rosales Requejo,Jaime Rodrigo,M,18-39,7K,1:04:59,1:04:02,546
+3363,Rosas Muñante,Ricardo,M,18-39,7K,0:34:20,0:34:00,90
+180,Rospigliosi Rivera,Fernando,M,18-99,7K Colaboradores,0:33:31,0:33:08,13
+3223,Ruiz Gomez,Yurika Ayme,F,18-39,7K,0:58:16,0:57:15,489
+3270,Ruiz Jimenez,Cristina Alicia,F,18-39,7K,0:51:57,0:51:32,411
+3467,Ruiz Verde,Eduardo,M,18-39,7K,0:42:45,0:42:02,239
+247,Ruiza Rebaza,Jose,M,18-99,7K Colaboradores,0:40:33,0:40:18,55
+3346,Saavedra Briones,Catalina,F,40-99,7K,0:37:24,0:37:22,144
+3458,Saavedra Castañeda,Dhalia,F,18-39,7K,1:05:14,1:04:53,547
+332,Saavedra Huapaya,Diego Marcelo,M,18-99,7K Colaboradores,0:56:16,0:55:27,156
+195,Saavedra Linares,Juan Jason,M,18-99,7K Colaboradores,0:41:18,0:40:38,57
+3500,Saavedra Zamalloa,Maria Fe,F,18-39,7K,0:41:53,0:41:08,227
+3668,Saenz Joaquin,Teodoro,M,40-99,7K,0:38:00,0:37:36,153
+3663,Saenz Obregon,Tiffany Melisa,F,18-39,7K,0:53:34,0:53:07,436
+3148,Salas Arias,Carol Soledad,F,40-99,7K,1:01:18,1:00:55,517
+20,Salas Arias,Luis Miguel,M,18-99,7K Colaboradores,0:57:31,0:57:07,160
+3438,Salazar,Sofi Guadalupe,F,40-99,7K,0:59:17,0:58:25,497
+3164,Salazar Atoche,Teresa,F,40-99,7K,0:52:59,0:51:58,418
+547,Salazar Lima,Elvis Julio,M,18-99,7K Colaboradores,0:50:25,0:49:51,125
+627,Salazar Riega,Jose Carlos,M,18-99,7K Colaboradores,0:32:48,0:32:21,10
+3924,Salazar Saldaña,Joaquin José,M,18-39,7K,0:38:24,0:38:06,157
+3063,Salazar Villacorta,Francisco Javier,M,40-99,7K,0:47:09,0:47:04,319
+514,Salinas Agama,Jhonny Jimmy,M,18-99,7K Colaboradores,0:53:23,0:53:07,143
+3370,Salinas Huachupoma,Mauro,M,40-99,7K,0:54:20,0:54:16,443
+3540,Salinas Zavaleta,Cesar,M,18-39,7K,0:44:31,0:44:03,268
+3580,Salvador Neyra,Javier Segundo,M,40-99,7K,0:35:18,0:35:05,105
+3803,Salvador Quispe,Jonathan,M,18-39,7K,0:40:53,0:40:04,204
+3846,Samame Alarcon,Liliana Idelsa,F,18-39,7K,0:54:11,0:53:59,440
+3628,Samame Navarro,Gian Franco,M,15-17,7K,0:41:49,0:41:29,226
+642,Sanabria Rincon,Frank Victor,M,18-99,7K Colaboradores,0:44:01,0:43:40,85
+3806,Sanchez Abanto,Alexander,M,18-39,7K,0:38:51,0:38:27,165
+538,Sanchez Angeles,Luis Gualberto,M,18-99,7K Colaboradores,0:41:31,0:41:14,60
+3047,Sanchez Carbajal,Yannina Veronika,F,18-39,7K,0:36:07,0:34:55,120
+3263,Sánchez Mallqui,Freddy Alexander,M,18-39,7K,0:35:52,0:35:36,116
+3288,Sanchez Rodriguez,Aymee Sarita,F,18-39,7K,0:46:12,0:46:07,305
+3447,Sánchez Sotelo,Kelly Pamela,F,18-39,7K,0:29:28,0:29:24,37
+3543,Santa Cruz Zuloeta,Jose Ernesto,M,40-99,7K,0:39:09,0:38:56,170
+55,Santa Cruz Zuloeta,Jose Elar,M,18-99,7K Colaboradores,0:34:59,0:34:57,20
+663,Santisteban Vite,Erick Michael,M,18-99,7K Colaboradores,0:33:01,0:32:29,11
+3882,Santos Navarro,Jorge Alfredo,M,40-99,7K,0:35:52,0:35:47,115
+40,Santos Timana,Duber,M,18-99,7K Colaboradores,0:30:29,0:30:23,4
+549,Sedano Baldoceda,Gino Pablo,M,18-99,7K Colaboradores,0:57:50,,161
+3822,Segura Restrepo,Kamilly,F,15-17,7K,0:56:36,0:56:30,471
+3522,Seje Mamani,Grover Efrain,M,18-39,7K,0:44:13,0:44:10,259
+3829,Sejekam Tsakim,Yuri,F,15-17,7K,0:50:56,0:50:47,387
+3584,Sequeiros Rojas,Cinthia,F,18-39,7K,0:40:09,0:37:57,189
+3093,Sercovich Pascual,Hamer Bill,M,18-39,7K,0:46:08,0:45:44,304
+3827,Sifuentes Torero,Brayn,M,18-39,7K,0:40:16,0:40:10,192
+3428,Silva Alvaro,Alexander Eduardo,M,18-39,7K,1:00:27,0:59:44,506
+3404,Silva Balcazar,Juan Carlos,M,18-39,7K,0:39:31,0:39:16,177
+579,Silva Balcazar,Elberth,M,18-99,7K Colaboradores,0:31:41,0:31:26,8
+3110,Silva Calle,Gabriela De Jesus,F,18-39,7K,0:48:41,0:48:15,355
+3650,Silva Galindo,Juan Diego,M,15-17,7K,0:50:49,0:50:01,384
+3848,Silva Guerrero,Jorge Luis,M,18-39,7K,0:37:57,0:37:09,150
+13,Silva Saboya,Carlos,M,18-99,7K Colaboradores,0:30:37,0:30:32,5
+238,Silva Sernaque,Sadot Enrique,M,18-99,7K Colaboradores,0:42:58,0:42:39,72
+3788,Silvano Andi,Cecilia,F,18-39,7K,0:46:18,0:45:43,307
+3692,Silvera Pantoja,Jean Pierre,M,18-39,7K,0:35:54,0:35:34,117
+3535,Simón Encarnación,Dionel Willy,M,18-39,7K,0:35:52,0:35:34,114
+3484,Sirlupu Quispe,Jose Yvan,M,18-39,7K,0:44:44,0:44:40,274
+3036,Solis Escajadillo,Anamaría Del Pilar,F,40-99,7K,0:31:52,0:31:52,63
+3183,Solis Ramirez,Fabiola,F,18-39,7K,0:53:48,0:53:23,438
+3795,Soria Cruz,Miguel,M,18-39,7K,0:22:11,0:22:11,4
+3594,Soria Cubas,Miguel Sebastián,M,18-39,7K,0:45:31,0:44:58,294
+3545,Sosa,Anthony,M,18-39,7K,0:38:35,0:38:22,162
+3903,Sotacuro Quispe,Jhon Gabriel,M,15-17,7K,0:23:47,0:23:47,6
+3690,Sotomayor Cabrera,Federico Edmundo,M,40-99,7K,0:28:40,0:28:38,30
+3436,Sotomayor Velasquez,Esther Janette,F,40-99,7K,0:40:34,0:39:54,198
+3469,Stucchi,Eric,M,40-99,7K,0:34:22,0:34:15,91
+3121,Suarez Ladines,Luis Adrian,M,15-17,7K,0:56:23,0:56:07,469
+230,Suarez Ladines,Pamela,F,18-99,7K Colaboradores,1:02:40,1:02:21,169
+3630,Tadeo,Saul,M,15-17,7K,0:45:37,0:45:18,295
+483,Taipe,Miguel,M,18-99,7K Colaboradores,0:42:38,0:42:09,67
+158,Talledo Merino,Oscar Benjamin,M,18-99,7K Colaboradores,0:51:22,0:51:12,132
+445,Tamariz Loza,Raul Eduardo,M,18-99,7K Colaboradores,0:50:29,0:50:13,126
+3388,Tanta Apaza,Carmen Rosa,F,40-99,7K,0:36:59,0:36:52,133
+3572,Tapia Guerrero,Geraldine,F,18-39,7K,0:33:17,0:33:07,77
+487,Tarazona Menostroza,Erick Junior,M,18-99,7K Colaboradores,0:40:07,0:39:19,51
+3349,Tasilla,Yessenia,F,18-39,7K,0:28:46,0:28:45,31
+3553,Tena Jimenez,Ofelia,F,18-39,7K,0:51:43,0:51:33,407
+3026,Tiburcio Cano,Rocio Nely,F,18-39,7K,0:49:58,0:49:44,375
+3039,Tito,Lizzet Leyzza,F,18-39,7K,1:04:48,1:04:13,542
+3865,Toledo Zapata,Helder Edu,M,18-39,7K,0:41:09,0:39:14,209
+3322,Tomas Raul Cesar,Eche Navarro,M,18-39,7K,0:42:54,0:41:52,240
+91,Torbisco Chumpitaz,Oscar,M,18-99,7K Colaboradores,0:46:14,0:45:14,98
+3054,Torres,Carlos,M,18-39,7K,0:39:32,0:39:05,178
+3320,Torres Garazatua,Juan Francisco,M,18-39,7K,0:53:29,0:52:47,435
+3149,Torres Moran,Marleny,F,40-99,7K,1:03:03,1:02:26,531
+352,Torres Pelaez,Miguel Angel,M,18-99,7K Colaboradores,0:51:54,0:51:32,137
+3387,Torres Ramos,Harold Jesus,M,18-39,7K,0:43:31,0:41:59,252
+58,Torres Rios,Sandro,M,18-99,7K Colaboradores,0:42:41,0:42:14,69
+3143,Torres Rojas,Rosa Nelida,F,40-99,7K,0:59:01,0:59:01,494
+3487,Torres Soto,Nestor,M,40-99,7K,0:57:10,0:57:06,480
+544,Torres Torres,Carlos Eduardo,M,18-99,7K Colaboradores,0:50:55,0:50:37,129
+3303,Torres Turín,Stephanie Lucía,F,18-39,7K,0:55:22,0:54:49,457
+3242,Torres Zamora,Xihomy Ximena,F,18-39,7K,0:52:00,0:51:38,413
+3671,Tovar Palomino,Jhoan Manuel,M,18-39,7K,0:44:47,0:44:29,277
+3567,Trelles Herrera,Bruno Adan,M,18-39,7K,0:30:12,0:30:08,47
+3888,Trujillo Rosales,Silverio Fidel,M,18-39,7K,0:26:48,0:26:48,21
+3215,Tuesta Colan,Alvaro,M,18-39,7K,0:47:14,0:46:18,321
+644,Turbides Cepeda,Luis Felipe,M,18-99,7K Colaboradores,1:03:43,1:03:03,173
+3886,Turpo Alata,Silvia Susana,F,18-39,7K,0:42:17,0:42:08,232
+3385,Ugaz Robles,Julio Cesar,M,18-39,7K,0:40:36,0:39:58,199
+71,Urlich Ames,Italo Miguel,M,18-99,7K Colaboradores,1:01:34,1:01:11,166
+3191,Urquizo Uribe,Teresa Del Rosario,F,40-99,7K,0:31:03,0:30:57,59
+441,Urteaga Pomez,Ivan Fernando,M,18-99,7K Colaboradores,0:47:55,0:46:56,110
+244,Useche,Gilberto,M,18-99,7K Colaboradores,0:38:35,0:37:50,43
+3873,Uzcategui Perez,Eloy Jose,M,40-99,7K,0:53:00,0:51:03,420
+3323,Valderrama Muñoz,Thais,F,18-39,7K,0:51:38,0:38:24,403
+3812,Valdiviezo,Carlos,M,40-99,7K,0:56:12,0:55:32,466
+3811,Valdiviezo Castillo,Aljhir,M,15-17,7K,1:05:53,1:05:12,555
+3035,Valencia Huaraca,Sara Naomi,F,18-39,7K,0:56:37,0:56:02,472
+3450,Valenzuela Medina,Tommy,M,15-17,7K,0:34:52,0:34:51,96
+12,Valero Poma,Luis Cesar,M,18-99,7K Colaboradores,0:34:14,0:33:57,15
+3358,Vallejos Andrade,Rocio,F,40-99,7K,0:30:07,0:30:06,45
+3324,Vargas,Belinda,F,18-39,7K,1:06:04,1:05:31,559
+3132,Vargas Cornejo,Cindy Lorena,F,18-39,7K,0:51:13,0:51:13,391
+3300,Vargas Durand,John,M,18-39,7K,0:21:46,0:21:44,3
+3382,Vargas Mays,Monica Herminia,F,18-39,7K,1:02:04,1:01:30,528
+3205,Vargas Ovalle,Anghelo Reneé,M,18-39,7K,0:38:55,0:38:45,167
+3521,Vargas Rivera,Belén Andrea,F,18-39,7K,1:00:35,0:59:37,509
+3550,Vargas Vargas,Estefanni Margarita,F,18-39,7K,0:55:07,0:53:50,455
+3654,Varillas Davalos,Lisseth Janice,F,15-17,7K,0:33:03,0:33:00,75
+3807,Vásquez Albertis,Héctor Joseph,M,18-39,7K,0:35:30,0:35:06,108
+3114,Vega Cuadra,Luis Rolando,M,18-39,7K,0:44:40,0:43:26,273
+76,Vega Mere,Guillermo,M,18-99,7K Colaboradores,0:48:48,,117
+3699,Vela Valles,Piero,M,18-39,7K,0:41:42,0:40:50,222
+3574,Velarde Mateo,Ana Beatriz,F,18-39,7K,0:40:15,0:40:04,191
+3563,Velasque Palomino,Ronald,M,18-39,7K,0:44:37,0:43:55,271
+3892,Velásquez Becerra,Angélica,F,40-99,7K,0:49:55,0:49:14,373
+3407,Veliz,Enrique,M,18-39,7K,0:50:33,0:49:57,381
+3275,Veliz Zuta,Karla,F,18-39,7K,0:51:07,0:51:07,390
+3199,Venancio Cassano,Alexandra Patricia,F,18-39,7K,0:50:59,0:44:09,389
+3486,Vera Rengifo,Walter Luis,M,18-39,7K,0:36:57,0:36:53,132
+3489,Verastegui Curi,Eric Alexander,M,18-39,7K,0:30:33,0:30:31,52
+3786,Vergara Espinoza,Jesus,M,40-99,7K,1:06:03,1:05:22,558
+3350,Vernaza Arbieto,Juan Albeeto,M,40-99,7K,0:25:48,0:25:46,15
+3213,Vertiz Rodriguez,Frank,M,18-39,7K,0:34:11,0:33:07,88
+3053,Via De La Cruz,Cinthya Elena,F,18-39,7K,1:07:15,1:06:25,565
+3272,Vicente Barrientos,Ysabel,F,18-39,7K,0:51:57,0:51:32,412
+3152,Vidal Macedo,Angel Enrique,M,18-39,7K,0:54:16,0:54:16,441
+3883,Vidal Rodriguez,Lizett,F,18-39,7K,0:47:34,0:47:25,325
+3844,Vidal Sarmiento,Maria Soledad,F,40-99,7K,0:43:29,0:43:20,249
+3057,Vilca Marchand,Bryan,M,18-39,7K,0:37:11,0:37:04,138
+82,Vilca Yauri,Jose Luis,M,18-99,7K Colaboradores,0:46:22,0:46:14,100
+3194,Vilchez Platero,Antonio,M,18-39,7K,0:50:28,0:50:18,379
+552,Vilchez Quintana,Thomas,M,18-99,7K Colaboradores,0:51:04,0:50:50,130
+3529,Vilchez Sandoval,Rosa Maria,F,40-99,7K,0:49:07,0:48:58,362
+3083,Villa Gadea,Gianfranco,M,18-39,7K,0:51:29,0:50:57,394
+3735,Villacorta Calcino,Victor Augusto,M,18-39,7K,0:37:53,0:37:00,148
+3908,Villafuerte Kanagusu,Ariana Kaori,F,18-39,7K,0:57:45,0:57:11,488
+3517,Villafuerte Kanagusu,Alessandra Lucero,F,18-39,7K,1:01:47,1:01:14,525
+3491,Villafuerte Rivero,Erika,F,40-99,7K,1:08:04,1:07:53,572
+3825,Villano Lopez,Dehanira,F,15-17,7K,1:05:17,1:05:10,548
+3046,Villanueva Sanchez,Katherine,F,18-39,7K,0:35:31,0:34:16,109
+3413,Villanueva Cueto,Carlos,M,18-39,7K,0:52:21,0:51:47,416
+3578,Villavicencio Antune,Jesus Angel,M,15-17,7K,0:41:40,0:41:16,220
+32,Villavicencio Antune,Jorge Enrique,M,18-99,7K Colaboradores,0:42:05,0:41:41,63
+3912,Vitor Cuello,Hristo,M,18-39,7K,0:34:59,0:34:47,98
+3627,Vivas Bautista,Boris Adalid,M,18-39,7K,0:55:48,0:55:23,459
+42,Vivas Rodriguez,Eduardo,M,18-99,7K Colaboradores,0:38:45,0:38:33,44
+3361,Vivas Venturo,Manuel,M,40-99,7K,0:49:43,0:49:03,370
+172,Vizcarra Vargas,Percy Fernando,M,18-99,7K Colaboradores,0:38:34,0:38:18,42
+3777,Wolf Vela,Sissy,F,18-39,7K,0:49:23,0:48:57,367
+41,Yafac Casas,Henry Eugenio,M,18-99,7K Colaboradores,0:43:02,0:42:03,73
+3895,Yarlequé Liñan,Jimmy,M,18-39,7K,0:57:37,0:57:37,487
+371,Yengle Acosta,Yonel Alberto,M,18-99,7K Colaboradores,0:43:21,0:42:52,83
+181,Yovera Coveñas,Alexander,M,18-99,7K Colaboradores,0:34:33,0:34:30,17
+3352,Ysla Parra,Alondra Alexandra,F,18-39,7K,0:48:10,0:47:52,343
+65,Yunca Zegarra,Carlos Antonio,M,18-99,7K Colaboradores,0:36:57,0:36:34,33
+3586,Zacarias Chihuan,Fabian Hedy,M,18-39,7K,0:51:33,0:40:59,398
+3414,Zafra Ubillus,Alyza,F,18-39,7K,0:48:41,0:46:56,356
+595,Zafra Urbina,Mario Alex,M,18-99,7K Colaboradores,0:48:48,0:47:02,116
+3801,Zamora Díaz,Hilda Olga,F,18-39,7K,0:44:14,0:44:06,261
+3280,Zandoval Godoy,Luis Miguel,M,18-39,7K,1:08:09,1:07:36,573
+366,Zapana Vilca,Edwin Javier,M,18-99,7K Colaboradores,0:36:16,0:36:12,25
+3209,Zapata Melendez,Yessica Maribel,F,18-39,7K,0:50:01,0:49:27,376
+468,Zapata Reyes,Jorge Luis,M,18-99,7K Colaboradores,0:43:09,0:42:51,77
+124,Zavaleta Calla,Luis Antonio,M,18-99,7K Colaboradores,0:56:31,0:55:22,157
+3018,Zegarra Calderón,Diana Sofía,F,18-39,7K,0:48:15,0:47:54,346
+3364,Zelada Maguiña,Fernando,M,18-39,7K,0:50:33,0:49:50,382
+3762,Zevallos Del Valle,Angel Gabriel,M,40-99,7K,0:37:05,0:36:52,136
+3251,Zevallos Otiniano,Wendy Lizet,F,18-39,7K,0:48:12,0:47:13,345
+3641,Zevallos Tarazona,Jessica Magaly,F,18-39,7K,1:04:37,1:04:03,541
+3424,Zulueta Galoc,Milder Reynaldo,M,18-39,7K,1:03:36,1:03:36,534
