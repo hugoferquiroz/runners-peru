@@ -7,9 +7,9 @@ The objective of this repository is analyze the stat of the running races in Per
 # Files structure
 
 ```markdown
-├── Data                        -> File to download the data  in CSV format.
-
-├── Scripts
+├── data                        
+  ├── raw                       -> File to download the data  in CSV format.
+├── scripts
   ├── '1 Web Scraping.py'       -> Program for web scrapping. Return a csv file with enconded utf-8 and a data frame.
 ```
 
