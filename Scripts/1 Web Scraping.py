@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 26 17:32:36 2021
 
-@author: Hugo Fernandez
+@author: @hugoferq
 """
 
 import os
