@@ -11,7 +11,7 @@ from selenium import webdriver
 import time
 
 # Set working directory
-working_directory = 'D:\\Proyectos personales\\runners-peru\\Data'
+working_directory = 'D:\\Proyectos personales\\runners-peru\\data\\raw'
 os.chdir(working_directory)
 
 def webscraping_running_peru(output_name,url,path_chromedriver):
