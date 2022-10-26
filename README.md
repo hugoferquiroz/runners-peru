@@ -22,8 +22,7 @@ The objective of this repository is analyze the stat of the running races in Per
 
    * Run the function `webscraping_running_peru`. I put examples to web scrapping marathons but you can modify the code for web scrapping other running race just replace the number 11 with 10 in the lines 61, 66, 71, 76, 81, 86, 91, 96 and 101. Also you can modify the implicit wait according of your internet speed.
 
-2. Exploratory Data Analysis (EDA) (for coming)
-3. Demand forecasting (for coming)
+2. Exploratory Data Analysis (EDA)
 
 # Requirements
   - Google Chrome
